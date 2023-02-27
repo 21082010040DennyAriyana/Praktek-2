@@ -1,0 +1,9 @@
+TH {
+	color: #FFFFFF; background-color: #336699; border-width: 1px;
+	border-style: solid; border-color: red; font-size: 9pt;
+}
+TD {
+	color: red;
+	background-color: #E6E6FA; border-width: 1px;
+	border-style: solid; border-color: blue; font-size: 9pt;
+}
